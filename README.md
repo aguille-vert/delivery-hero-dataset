@@ -8,6 +8,10 @@ Our particular interest is application of LLM to enhance food delivery recommend
 
 It's a work in progress.
 
-The first notebook [00_delivery_hero_eda.ipynb](https://github.com/aguille-vert/delivery-hero-dataset/blob/main/notebooks/00_delivery_hero_eda.ipynb) includes analysis of the structure of the dataset.
+The first notebook [00_delivery_hero_eda.ipynb](https://github.com/aguille-vert/delivery-hero-dataset/blob/main/notebooks/00_delivery_hero_eda.ipynb) includes analysis of the structure of the dataset.  
+
+## References
+
+[Peng Liu, Lemei Zhang and Jon Gulla (2023).Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems](https://arxiv.org/abs/2302.03735)
 
 
