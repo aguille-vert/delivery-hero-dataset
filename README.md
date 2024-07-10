@@ -1,10 +1,10 @@
-# Delivery Hero Recommendation Dataset:
+# Delivery Hero Recommendation Dataset
 
 The dataset was released with the paper "Delivery Hero Recommendation Dataset: A Novel Dataset for Benchmarking Recommendation Algorithms" at [RecSys23](https://recsys.acm.org/recsys23/).  
 
 This repository includes a series of notebooks exploring various aspects of the dataset with a view to develop novel approaches to a food delivery recommender system. 
 
-Our particular interest is application of LLM to enhance food delivery recommender systemas.
+Our particular interest is application of LLM to enhance food delivery recommender systems.
 
 It's a work in progress.
 
