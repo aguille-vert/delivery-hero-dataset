@@ -12,6 +12,8 @@ The first notebook [00_delivery_hero_eda.ipynb](https://github.com/aguille-vert/
 
 ## References
 
+[Hangxiong Chen et al. (2020). Neural Collaborative Reasoning](https://arxiv.org/abs/2005.08129)
+
 [Peng Liu, Lemei Zhang and Jon Gulla (2023).Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems](https://arxiv.org/abs/2302.03735)
 
 
